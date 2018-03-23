@@ -1,0 +1,26 @@
+{
+  "name": "bledebug",
+  "version": "0.1.0",
+  "description": "Simple BLE service to send notifications via a Unix Domain Socket",
+  "main": "bledebug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buschfunkproject/bledebug.git"
+  },
+  "keywords": [
+    "BLE",
+    "bluetooth"
+  ],
+  "author": "Lars Baumgaertner",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/buschfunkproject/bledebug/issues"
+  },
+  "homepage": "https://github.com/buschfunkproject/bledebug#readme",
+  "dependencies": {
+    "bleno": "^0.5.0"
+  }
+}
